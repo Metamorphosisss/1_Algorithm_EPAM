@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Algorithm_EPAM", "1_Algorithm_EPAM\1_Algorithm_EPAM.csproj", "{DCB134B2-3CF9-4BB2-B98E-752B8CF5CAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB134B2-3CF9-4BB2-B98E-752B8CF5CAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB134B2-3CF9-4BB2-B98E-752B8CF5CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB134B2-3CF9-4BB2-B98E-752B8CF5CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB134B2-3CF9-4BB2-B98E-752B8CF5CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A41264F8-D105-43E6-949E-CB4C52FDE411}
+	EndGlobalSection
+EndGlobal
